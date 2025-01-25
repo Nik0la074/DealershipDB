@@ -1,3 +1,15 @@
+INSERT INTO Customers (Name, Email, PhoneNumber, Address)
+VALUES
+    ('Иван Иванов', 'ivan@example.com', '0888123456', 'ул. Васил Левски 10'),
+    ('Мария Петрова', 'maria@example.com', '0899123456', 'ул. Христо Ботев 15'),
+    ('Георги Георгиев', 'george@example.com', '0878123456', 'ул. Алеко Константинов 5'),
+    ('Елена Василева', 'elena@example.com', '0888125678', 'ул. Раковски 22'),
+    ('Петър Димитров', 'peter@example.com', '0898321456', 'ул. Шипка 3'),
+    ('Силвия Николова', 'silvia@example.com', '0877543211', 'ул. Витоша 100'),
+    ('Димитър Колев', 'dimitar@example.com', '0889234567', 'ул. Пирин 45'),
+    ('Анна Христова', 'anna@example.com', '0899123321', 'ул. Искър 8'),
+    ('Кирил Стоянов', 'kiril@example.com', '0878321456', 'ул. Тракия 19'),
+    ('Росица Иванова', 'rositsa@example.com', '0888567890', 'ул. Левски 50');
 
 INSERT INTO Cars (Make, Model, Year, Price, Status)
 VALUES
